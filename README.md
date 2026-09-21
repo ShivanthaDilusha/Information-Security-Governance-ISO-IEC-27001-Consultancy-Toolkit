@@ -1,0 +1,2 @@
+# Information-Security-Governance-ISO-IEC-27001-Consultancy-Toolkit
+Developed an end-to-end Information Security Management System (ISMS) implementation toolkit and strategic roadmap based on the updated ISO/IEC 27001:2022 standard for CyberLabs. Designed from the perspective of an Information Security Consultant, this project bridges C-suite business justification with hands-on technical risk governance. 
